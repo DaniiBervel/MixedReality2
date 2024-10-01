@@ -1,4 +1,4 @@
-# Noche Europea de los Investigadores - Proyecto de Realidad Mixta para Resolución de Problemas
+# Noche Europea de los Investigadores - Proyecto de Realidad Mixta para resolución de problemas complejos
 
 ## Descripción
 Este proyecto presenta una **experiencia inmersiva de resolución de problemas** desarrollada para la Noche Europea de los Investigadores, utilizando tecnologías de **Realidad Mixta** con el dispositivo **Meta Quest 3**.
@@ -35,7 +35,7 @@ La combinación de **Realidad Mixta** y resolución de problemas permite un enfo
 
 ![Ejemplo de formación en RM](imagenes/formacionRM.png)
 
-Agradecimientos especiales a **Fernando Cañadas Aránega** y al grupo de investigación **TEP-197** de la Universidad de Almería por su colaboración en este proyecto.
+
 
 Si te interesa ver cómo fue la experiencia en vivo, aquí te dejo un vídeo resumen:
 
