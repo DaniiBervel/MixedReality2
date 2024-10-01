@@ -8,7 +8,7 @@ Este proyecto presenta una **experiencia inmersiva de resolución de problemas**
 **Formación:** Ingeniero electrónico industrial y automática | Máster en Industria 4.0
 
 ## Introducción
-En el marco de la **Noche Europea de los Investigadores**, desarrollé una experiencia donde los participantes intentaban resolver un rompecabezas en un entorno **híbrido** que combinaba piezas físicas y virtuales. La experiencia comenzó con un desafío tradicional, y aquellos que no lo resolvían en el primer intento podían utilizar **Realidad Mixta** para obtener una solución guiada en tiempo real, interactuando con el puzzle a través de un dispositivo de **seguimiento de manos**.
+En el marco de la **Noche Europea de los Investigadores**, desarrollé una experiencia donde los participantes intentaban resolver un rompecabezas en un entorno **híbrido** que combinaba piezas físicas y virtuales. La experiencia comenzó con un desafío tradicional, y aquellos que no lo resolvían en el primer intento podían utilizar **Realidad Mixta** para obtener una solución guiada en tiempo real, interactuando con el puzzle a través del **seguimiento de manos**.
 
 ![Ejemplo del rompecabezas físico](imagenes/puzzlefisico.png)
 
