@@ -20,18 +20,17 @@ Este enfoque permite a los usuarios comprender mejor la **estrategia y la resolu
    
    ![Rompecabezas físico](imagenes/rompecabezafisico.png)
 
-2. **Solución Guiada en Realidad Mixta**: Los usuarios que no completaron el puzzle en el primer intento pasaron a una **experiencia en RM**, donde podían interactuar simultáneamente con objetos físicos y digitales para completar el puzzle.
+2. **Solución Guiada en Realidad Mixta**: Los usuarios que no completaron el puzzle en el primer intento pasaron a una **experiencia en Realidad Mixta**, donde podían interactuar simultáneamente con objetos físicos y digitales para completar el puzzle de manera guiada y utilizando el seguimiento de manos.
 
    ![Ejemplo de experiencia en RM](imagenes/realidadmixta.png)
 
-3. **Análisis de Comportamiento en Tiempo Real**: A lo largo de la presentación, se registraron las diferencias entre el rendimiento sin tecnología y con RM, lo que permitió evaluar cómo la **tecnología inmersiva** afecta la **comprensión espacial** y la **estrategia de resolución**.
+3. **Análisis de Comportamiento en Tiempo Real**: A lo largo de la presentación, se registraron las diferencias entre el rendimiento sin tecnología y con realidad mixta, lo que permitió evaluar cómo la **tecnología inmersiva** afecta la **comprensión espacial** y la **estrategia de resolución**. Fue fascinante ver cómo incluso los más pequeños completaban la experiencia con facilidad, demostrando lo accesible y potente que puede ser la tecnología inmersiva para el aprendizaje y la educación. 
 
    ![Ejemplo de Análisis](imagenes/analisis.png)
 
-Esta experiencia no solo fue interactiva y entretenida, sino que demostró el potencial de la **Realidad Mixta** para mejorar la educación y la formación, adaptándose a todas las edades y capacidades. Incluso **niños de 5 años** lograron completar el puzzle con facilidad, resaltando lo accesible que puede ser esta tecnología.
 
 ## Conclusiones
-La combinación de **Realidad Mixta** y resolución de problemas permite un enfoque más **práctico e intuitivo** para el aprendizaje, aplicable en diversos campos educativos e industriales. Este proyecto no solo destaca la **innovación tecnológica**, sino también cómo la RM puede ser una herramienta clave para **mejorar la enseñanza** y las **habilidades prácticas** en un entorno interactivo.
+Esta experiencia no solo fue interactiva y entretenida, sino que demostró el potencial de la **Realidad Mixta** para mejorar la educación y la formación, adaptándose a todas las edades y capacidades. Incluso **niños de 5 años** lograron completar el puzzle con facilidad, resaltando lo accesible que puede ser esta tecnología. La combinación de **Realidad Mixta** y resolución de problemas permite un enfoque más **práctico e intuitivo** para el aprendizaje, aplicable en diversos campos educativos e industriales. Este proyecto no solo destaca la **innovación tecnológica**, sino también cómo la realidad mixta puede ser una herramienta clave para **mejorar la enseñanza** y las **habilidades prácticas** en un entorno interactivo.
 
 ![Ejemplo de formación en RM](imagenes/formacionRM.png)
 
@@ -39,4 +38,4 @@ La combinación de **Realidad Mixta** y resolución de problemas permite un enfo
 
 Si te interesa ver cómo fue la experiencia en vivo, aquí te dejo un vídeo resumen:
 
-[![Ver video demo en YouTube](https://img.youtube.com/vi/g-qD4mWmMQ4/hqdefault.jpg)](https://www.youtube.com/watch?v=g-qD4mWmMQ4)
+[![Ver video demo en YouTube](https://img.youtube.com/vi/zNT6fqZb34w/hqdefault.jpg)](https://youtube.com/shorts/zNT6fqZb34w?si=yGWNZ63tBDi_W3Sk)
